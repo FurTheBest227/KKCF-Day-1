@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  color: #f60404;
+  font-size: 50px;
+  font-family: '';
+}
+p{
+  color: #1924b8;
+  font-size:20px;
+}
